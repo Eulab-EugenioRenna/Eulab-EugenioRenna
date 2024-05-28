@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Eugenio Renna e faccio parte di Eulab
 
-Sono un FullStack Dev e lavoro principalmente con Angular e NestJs e ho esperienza con [tecnologie/strumenti].
+Sono un FullStack Dev e lavoro principalmente con Angular e NestJs.
 
 ## 🔧 Competenze Tecniche
 - **Linguaggi**: Typescript, JavaScript, CSS, HTML
