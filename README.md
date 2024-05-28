@@ -5,7 +5,7 @@ Sono un FullStack Dev e lavoro principalmente con Angular e NestJs.
 ## 🔧 Competenze Tecniche
 - **Linguaggi**: Typescript, JavaScript, CSS, HTML
 - **Frameworks**: Angular 
-- **Strumenti**: Git, Docker, 
+- **Strumenti**: Git, Docker
 
 
 ## 📫 Contatti
